@@ -35,7 +35,7 @@ body {
 .header div ul {
     list-style-type: none;
 }
-
+/*div ul li selector element*/
 .header div ul li {
     display: inline-block;
     margin-left: 25px;
